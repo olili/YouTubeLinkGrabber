@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Singapore", CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695618591/ei/v8EQZbuoI6eSlu8P7OqdqAc/ip/70.37.167.55/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzgKppyyP12SFxtkCPTZMWlhWRIyAAwWRJ5INg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFU_T87t7T6xQ66sx07W7pZK3Re_x7yqqqS5uAfrmBmACIQCJBbgfKFIapy0vxrgVe5CJgb8ehBVjB5-WtstQZCblDw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1695624659/ei/c9kQZZu_AcGkkwb9iIjwAg/ip/20.172.5.165/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_XEk4JszmN-WsHxLUDymAcavxov8gbDa-UlFQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMvpCobkkk9KwFmlC7BRP-rnJMZJzSLr3jm__HrXKvAfAiAQWuOeFIvaohUfgsDFOMufFnD2xGG44Ma6rTHYjG7UOg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Germany", DW
 https://www.youtube.com/watch?v=1oh9IEwBbFY
@@ -12,3 +12,4 @@ https://www.youtube.com/watch?v=1oh9IEwBbFY
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 group-title="Germany", Welt Nachrichten
+https://www.youtube.com/watch?v=1oh9IEwBbFY
