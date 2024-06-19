@@ -1,16 +1,4 @@
 ## FORMAT: <channel name> - <Country>
 
-ABC News (US) - US
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
-
-CNA - Singapore
-https://www.youtube.com/watch?v=XWq5kBlakcQ
-
-DW - Germany
-https://www.youtube.com/watch?v=V9KZGs1MtP4
-
-Al Jazeera English - Qatar
-https://www.youtube.com/watch?v=-upyPouRrB8
-
 Welt Nachrichten - Germany
 https://www.youtube.com/live/j10jsQw_1c8?feature=shared
