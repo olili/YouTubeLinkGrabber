@@ -1,15 +1,3 @@
 
-#EXTINF:-1 group-title="Us", ABC News (US)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 group-title="Singapore", CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718852480/ei/IEdzZpHvN5WDkucPl5GNgAg/ip/20.81.159.30/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1QTsosmIk7b6qJiV1OlznSBeNRBDaizR12O24-qn57lbTDQmEOceSTYtu4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJEyi48VNliaODorGUcd8fVH9zZl9WwPnAjxfdZrNq-6AiEA2ch-R433LuXvEM31lTqEvfeZ_Z1fhr8EgrDyuF0_eN4%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Germany", DW
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
-#EXTINF:-1 group-title="Qatar", Al Jazeera English
-https://www.youtube.com/watch?v=1oh9IEwBbFY
-
 #EXTINF:-1 group-title="Germany", Welt Nachrichten
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718852482/ei/IkdzZoDTCZSFkucPvueSoAo/ip/20.81.159.30/id/j10jsQw_1c8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxwW2ILDxxRkBU4NAygr5dSZIkn9naVmAdppdcwCS_2rB35HDak8tFlNzbA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL9i8YjGGY9EjMJr8_tD5r8KOFECarEyKGDTmnjXdwX0AiA3NPWjyuhx2Bi8vhOOui0rQS09Wu13usXClafYbnvG8w%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718852685/ei/7UdzZq65J7PGir4Porzo4QM/ip/172.183.131.250/id/j10jsQw_1c8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6CG70toTK2PNYeQNTy9Lwej0eLOmUxX-nUnmOemHVskRw9qzzDbbl3HvdY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgdpYIOJ8dL9og-2mbyZc099PplKxYR7dO6bwXBH1bJ70CIEMKAkCMjwIz0OK-LWJD6U2It-a1nk_atoc9YStA4HLv/file/index.m3u8
