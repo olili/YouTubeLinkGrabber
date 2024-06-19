@@ -17,7 +17,7 @@ def grab(url):
             break
         else:
             tuner += 5
-    print(f"{link[start : end]}")
+    print(f"pipe://ffmpeg -loglevel fatal -re -i {link[start : end]} -ignore_unknown -map 0:0 -map 0:1 -map 0:2? -map 0:3? -map 0:4? -c:a:0 copy -c:a:1 copy -c:v copy -c:s copy -f mpegts -metadata service_name=\"YT\" pipe:1 ")
 
 with open('./youtubeLink.txt', encoding='utf-8') as f:
     print(f'#EXTM3U ')
@@ -31,10 +31,8 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
             grp_title = line[1].strip().title()
             print(f'\n#EXTINF:-1 group-title="{grp_title}", {ch_name}')
         else:
-            print(f'pipe:\/\/ffmpeg -loglevel fatal -re -i ') 
             grab(line)          
-            print(f' -ignore_unknown -map 0:0 -map 0:1 -map 0:2? -map 0:3? -map 0:4? -c:a:0 copy -c:a:1 copy -c:v copy -c:s copy -f mpegts -metadata service_name=\"YT\" pipe:1 ')
-           
+    
 
             
 if 'temp.txt' in os.listdir():
