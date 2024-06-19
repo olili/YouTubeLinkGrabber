@@ -33,7 +33,7 @@ with open('./youtubeLink.txt', encoding='utf-8') as f:
         else:
             print(f'pipe:\/\/ffmpeg -loglevel fatal -re -i ') 
             grab(line)          
-            print(f' -ignore_unknown -map 0:0 -map 0:1 -map 0:2? -map 0:3? -map 0:4? -c:a:0 copy -c:a:1 copy -c:v copy -c:s copy -f mpegts -metadata service_name=\"YT\" pipe:1
+            print(f' -ignore_unknown -map 0:0 -map 0:1 -map 0:2? -map 0:3? -map 0:4? -c:a:0 copy -c:a:1 copy -c:v copy -c:s copy -f mpegts -metadata service_name=\"YT\" pipe:1 ')
            
 
             
